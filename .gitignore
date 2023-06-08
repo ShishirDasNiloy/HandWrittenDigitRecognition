@@ -1,0 +1,4 @@
+.vscode
+env
+hwd.model
+*__pycache__
